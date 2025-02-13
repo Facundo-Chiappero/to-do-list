@@ -22,7 +22,7 @@ Este es un proyecto simple de una **Lista de Tareas** (To-Do List) hecho con **R
 Desde una terminal o cmd ingresa los siguientes comandos:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone https://github.com/Facundo-Chiappero/to-do-list.git
 cd to-do-list
 npm install
 npm run dev
@@ -52,7 +52,7 @@ This is a simple **To-Do List** project built with **React**. The application al
 From a terminal or cmd, run the following commands:
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/Facundo-Chiappero/to-do-list.git
 cd to-do-list
 npm install
 npm run dev
