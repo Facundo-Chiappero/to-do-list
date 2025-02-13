@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.mainContainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10rem;
+  row-gap: 2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+input{
+  height: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.task{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: flex-end;
+}
+.task:not(:last-child){
+  margin-bottom: 1rem;
+}
+
+p{
+  font-size: 2rem;
+  margin: 0;
+}
